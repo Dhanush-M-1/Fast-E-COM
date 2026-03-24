@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/store/backend/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/store/backend",
+        "${workspaceFolder}/store/backend/venv/Lib/site-packages"
+    ],
+    "python.analysis.autoSearchPaths": true
+}
