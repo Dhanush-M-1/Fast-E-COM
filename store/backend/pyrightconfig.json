@@ -1,0 +1,7 @@
+{
+  "venvPath": "c:/Project/Fast-E-COM/store/backend",
+  "venv": "venv",
+  "pythonVersion": "3.13",
+  "extraPaths": [".", "venv/Lib/site-packages"],
+  "include": [".", "routers"]
+}

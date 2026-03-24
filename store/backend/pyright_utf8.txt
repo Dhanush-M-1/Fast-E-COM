@@ -1,0 +1,6 @@
+c:\Project\Fast-E-COM\store\backend\routers\auth.py
+  c:\Project\Fast-E-COM\store\backend\routers\auth.py:40:46 - error: "access_token" is not a known attribute of "None" (reportOptionalMemberAccess)
+  c:\Project\Fast-E-COM\store\backend\routers\auth.py:41:47 - error: "refresh_token" is not a known attribute of "None" (reportOptionalMemberAccess)
+  c:\Project\Fast-E-COM\store\backend\routers\auth.py:43:37 - error: "id" is not a known attribute of "None" (reportOptionalMemberAccess)
+  c:\Project\Fast-E-COM\store\backend\routers\auth.py:44:40 - error: "email" is not a known attribute of "None" (reportOptionalMemberAccess)
+4 errors, 0 warnings, 0 informations
